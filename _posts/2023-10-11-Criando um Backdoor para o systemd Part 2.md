@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Criando um Backdoor para o Systemd Part 1
-subtitle: Explorando o Kernel do windows
+subtitle: Explorando o Systemd
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/systemd.jpg
 share-img: /assets/img/path.jpg
