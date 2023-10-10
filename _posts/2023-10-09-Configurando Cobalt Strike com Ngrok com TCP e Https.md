@@ -5,7 +5,7 @@ subtitle: A Persistencia com IP
 cover-img: /assets/img/Cobalt-Strike-Wallpaper.jpg
 thumbnail-img: /assets/img/Cobalt-Strike.jpg
 share-img: /assets/img/path.jpg
-tags: [Redes]
+tags: [CobaltStrike]
 ---
 
 Ngrok: do Localhost para o Mundo
