@@ -2,7 +2,7 @@
 layout: post
 title: Configurando Cobalt Strike com Ngrok com TCP e Https
 subtitle: A Persistencia com IP
-cover-img: /assets/img/Cobalt-Strike-Wallpaper.jpg
+cover-img: /assets/img/Cobalt-Strike-Wallpaper.jpeg
 thumbnail-img: /assets/img/Cobalt-Strike.jpg
 share-img: /assets/img/path.jpg
 tags: [CobaltStrike]
