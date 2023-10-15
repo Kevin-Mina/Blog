@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Windows]
 ---
 
-Já parou para pensar que uma Imagem crackeada que voce baixou do windows em algum lugar por ai pode estar infectada ?
+Já parou para pensar que uma Imagem iso do windows que voce baixou em algum lugar por ai que vem crackeada ou que vem com o windows ativado pode estar infectada ?
 
 Introdução:
 
