@@ -24,6 +24,7 @@ author: Kevin
 navbar-links:
   Sobre Mim: "aboutme"
   Portfólio: "https://kevin-mina.github.io/personal-portfolio/"
+  Currículo: "https://github.com/Kevin-Mina/Blog/curriculo.pdf"
 
 ################
 # --- Logo --- #
@@ -49,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "kevinferreiragamer@outlook.com"
+  email: "kevinferreiragamer@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: profile.php?id=61550066818775
   github: Kevin-Mina
