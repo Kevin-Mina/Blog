@@ -6,7 +6,7 @@ subtitle: Um pouco sobre mim
 
 Olá meu nome é Kevin,
 
-Sou um entusiasta de tecnologia e, acima de tudo, apaixonado por computadores. Desde cedo, minha curiosidade pelo mundo da informática me levaram a explorar diferentes áreas desse universo digital. Meu envolvimento com computadores começou como um hobby, mas logo se tornou uma busca constante por conhecimento e aprimoramento.
+Sou um entusiasta de tecnologia e, acima de tudo, apaixonado por computadores. Desde cedo, minha curiosidade pelo mundo da informática me levou a explorar diversas áreas desse universo digital. O que começou como um hobby, logo se transformou em uma busca constante por conhecimento e aprimoramento.
 
 ### Minha Historia
 
